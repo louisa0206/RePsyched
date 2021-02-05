@@ -13,6 +13,10 @@ Link to website images: https://www.dropbox.com/sh/osh26j860r15u3g/AAAKFYPVXzrUB
 
 Link to personas, user stories, storyboards: https://docs.google.com/document/d/1l5qcjVWWXJyk9E1qtn99vv3hopbYWv4or6OfQgdRXZs
 
+Data Sience: 
+
 Link to th Data Science Repository: https://github.com/louisa0206/RePsyched_DS.git
+
+Web Developer: 
 
 Link to the Web Delevoper Repository: https://github.com/leagruen/WebDev.git
