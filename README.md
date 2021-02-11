@@ -20,3 +20,5 @@ Link to the Data Science Repository: https://github.com/louisa0206/RePsyched_DS.
 Web Development: 
 
 Link to the Web Delevopment Repository: https://github.com/leagruen/WebDev.git
+
+See https://github.com/users/louisa0206/projects/1 for the complete RePsyched Project 
