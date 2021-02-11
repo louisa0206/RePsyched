@@ -15,7 +15,7 @@ Link to personas, user stories, storyboards: https://docs.google.com/document/d/
 
 Data Science: 
 
-Link to th Data Science Repository: https://github.com/louisa0206/RePsyched_DS.git
+Link to the Data Science Repository: https://github.com/louisa0206/RePsyched_DS.git
 
 Web Development: 
 
