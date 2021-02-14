@@ -45,17 +45,15 @@ Under the time constraints of the program, we implemented a preliminary website 
 **GitHub:**
 https://github.com/louisa0206/RePsyched
 
-**The Team:**
-Agnes Emri — UX
-Anna von Blohn — DS
-Fariz Hakim — UX
-Gwendolyn Grüntuch — WD
-Irena Yeung — UX
-Louisa Henschke — DS
-Muhammad Ahsan Qayyum — WD
-Zafar Iqbal — DS
+**The Team:**  
+Agnes Emri — UX  
+Anna von Blohn — DS  
+Fariz Hakim — UX  
+Gwendolyn Grüntuch — WD  
+Irena Yeung — UX  
+Louisa Henschke — DS  
+Muhammad Ahsan Qayyum — WD  
+Zafar Iqbal — DS 
 
-**Mentor:**
+**Mentor:**  
 Nils Strassenburg
-
-
