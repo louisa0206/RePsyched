@@ -10,7 +10,7 @@ The three UX team members started with mapping out the user flow within the plat
 
 Based on user stories we designed the basic wireframe of each page in Figma. Ease of usability was a main focus of our website, therefore we focused on designing a simple interface with intuitive navigation in mind. We created three variations of the wireframe, with the intention to give options to the rest of the team, although there were no big differences. One of the wireframes was taken as the foundation to build a higher fidelity one, integrating colors, iconography, typography and logo. We created three prototype designs and after some discussion, we agreed to combine these into a final prototype to hand off to the web developers.
 
-![Image of final prototype](https://live.staticflickr.com/65535/50940719862_1893d1bd6d_b.jpg) The Figma prototype
+![Image of final prototype](https://raw.githubusercontent.com/louisa0206/RePsyched/main/Blog%20image%2001.png) The Figma prototype
 
 ## Data Science
 
@@ -21,9 +21,9 @@ Evaluating criteria were not only the completeness and correctness of informatio
 
 Web scraping basically means extracting data from human-readable output. For building the web scraper we used the Beautifulsoup and scrapy. We then discussed with the Web Developers in what format we store our information we scraped from the websites. We agreed on CSV files. The next step for us was cleaning and processing the data. As a last step we handed the data over to the WebDev team.
 
-![Image of the pipeline that processes the scraped data](https://live.staticflickr.com/65535/50940719787_a6b715529c_b.jpg) The pipeline that processes the scraped data
+![Image of the pipeline that processes the scraped data](https://raw.githubusercontent.com/louisa0206/RePsyched/main/Blog%20image%2002.png) The pipeline that processes the scraped data
 
-![Image of the result of the data scrape](https://live.staticflickr.com/65535/50940719732_db17017958_b.jpg) The result
+![Image of the result of the data scrape](https://raw.githubusercontent.com/louisa0206/RePsyched/main/Blog%20image%2003.png) The result
 
 
 ## Web Development
@@ -36,7 +36,7 @@ At this point, our website was visually realized but not yet functional. Therefo
 
 During the project phase, we were constantly in contact with the whole team and our mentor, to evaluate our progress and to ask for their suggestions for changes and improvements.
 
-![Image of the green bins on the map](https://live.staticflickr.com/65535/50940612781_13be08f932_b.jpg) Green bins marked on the map
+![Image of the green bins on the map](https://raw.githubusercontent.com/louisa0206/RePsyched/main/Blog%20image%2004.png) Green bins marked on the map
 
 ## Project Results
 
